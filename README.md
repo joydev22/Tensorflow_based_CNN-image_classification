@@ -1,5 +1,5 @@
 # Description
-This repo contain tensorflor based CNN image classification, this algo is very powerful deep learning models widely used for classification and other task.
+This repo contain tensorflor based CNN image classification, this algo is very powerful deep learning models widely used for classification and other task. Here we have calssify only three classes of images, i.e. bedroom, dinning room and living room.
 
 # Dataset
 The dataset has been sourced from [roboflow](https://universe.roboflow.com/td-bryant/rooms-4k85e/dataset/1)
